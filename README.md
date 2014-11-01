@@ -1,4 +1,4 @@
-# Cisco Clean Access Login Command Line Script #
+# Bash Script for login in to the Cisco Clean Access Service #
 
 Simple Command Line (Bash) script that log in to the Cisco Clean Access authentication server.
 
