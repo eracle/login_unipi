@@ -12,3 +12,6 @@ Solo per sistemi operativi che supportano il terminale bash.
 
 # Utilizzo #
 Copiare in una cartella in locale con il comando git clone, inserire il proprio username e password nel file login.sh ed eseguirlo. 
+
+# Dependencies #
+mechanize
